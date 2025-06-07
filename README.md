@@ -72,7 +72,7 @@ This project is a part of the UET MD Real Estate initiative to develop innovativ
    #### For `socket`:
 
    ```bash
-   cd client
+   cd socket
    npm install
    ```
 
