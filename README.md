@@ -1,4 +1,4 @@
-# Real Estate Application - UET MD Real Estate
+# Real Estate Application - MD Real Estate
 
 Welcome to the official repository for the Real Estate Application developed by UET MD Real Estate. This project aims to create a comprehensive web and mobile application to streamline real estate transactions and provide a seamless user experience for buyers, sellers, and agents.
 
@@ -138,10 +138,3 @@ This project is a part of the UET MD Real Estate initiative to develop innovativ
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
-
-## Contact
-
-For any inquiries or feedback, please contact at:
-
-- **Email**: jkruja2@uet.edu.al
-- **GitHub Issues**: [Create an Issue](https://github.com/sayjin93/UET_Team1_Local-VCL/issues)
